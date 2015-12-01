@@ -1,0 +1,4 @@
+language: py2
+script:
+
+  - python onlyme_ele_app.py
